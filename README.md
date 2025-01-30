@@ -1,13 +1,21 @@
 ## 👋 Hey there, this is Heramb!  
-<pre>🎓 <b>CS Grad student</b> at <b>University of Illinois Urbana-Champaign</b> (GPA: 3.95, Graduating in <b>May 25</b>)  
+<!--<pre "font-size: px;">🎓 <b>CS Grad student</b> at <b>University of Illinois Urbana-Champaign</b> (GPA: 3.95, Graduating in <b>May 25</b>)  
 💼 <b>Back-end Developer</b> at UIUC Secure and Transparent Systems Lab, previously <b>SDE at ION Trading</b>
 👨‍💻 <b>Contributing to over 7 open-source projects</b> in my fav language, <b>Java</b>
 🌱 Passionate about <b>Software Engineering, Distributed Systems, and Cloud Computing</b>  
-🏆 Winner of <b>TikTok-Techjam-2024</b> for Personalized Endorsements on TikTok
+🏆 Winner of <b>TikTok-Techjam-2024</b> for building Gen-AI based Personalized Endorsements on TikTok
 ⚙️ If you like discussing <b>system design</b>, you're already my friend!
 🏃 Ocassional runner, risky Poker-player and Ping-pong lover
-</pre>
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:hujoshi2@illinois.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/heramb-joshi-u2)  [![LinkedIn](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/19nk-U6McjgBFaJzMD9fKsYf-_2r6lEbL/view?usp=sharing)  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://yourportfolio.com) -->
+</pre> -->
+- 🎓 <b>CS Grad student</b> at <b>University of Illinois Urbana-Champaign</b> (GPA: 3.95, Graduating in <b>May 25</b>)  
+- 💼 <b>Back-end Developer</b> at UIUC [Secure and Transparent Systems Lab](https://sts.cs.illinois.edu/), previously <b>SDE at [ION Trading](https://iongroup.com/)</b>
+- 👨‍💻 <b>Contributing to over 7 open-source projects</b> in my fav language, <b>Java</b>
+- 🌱 Passionate about <b>Software Engineering, Distributed Systems, and Cloud Computing</b>  
+- 🏆 Winner of <b>TikTok-Techjam-2024</b> for building [Gen-AI based Personalized Endorsements](https://devpost.com/software/adopting-genai-for-personalized-endorsements) on TikTok
+- ⚙️ If you like discussing <b>system design</b>, you're already my friend!
+- 🏃 Ocassional runner, risky Poker-player and Ping-pong lover
+  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:hujoshi2@illinois.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/heramb-joshi-u2)  [![Resume](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/19nk-U6McjgBFaJzMD9fKsYf-_2r6lEbL/view?usp=sharing)  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 | 🛠 Tech Stack | Technologies |
 |:----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
