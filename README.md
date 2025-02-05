@@ -15,7 +15,7 @@
 - ⚙️ If you like discussing <b>system design</b>, you're already my friend!
 - 🏃 Ocassional runner, risky Poker-player and Ping-pong lover
   
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:hujoshi2@illinois.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/heramb-joshi-u2)  [![Resume](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/19nk-U6McjgBFaJzMD9fKsYf-_2r6lEbL/view?usp=sharing)  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://yourportfolio.com) -->
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:hujoshi2@illinois.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/heramb-joshi-u2)  [![Resume](https://img.shields.io/badge/Resume-%2347A248.svg?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1LOC4gp6JJ92WQYt-AaGEDUOeCQjW9Z7k/view?usp=drive_link)  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://yourportfolio.com) -->
 
 | 🛠 Tech Stack | Technologies |
 |:----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
