@@ -9,7 +9,7 @@
 </pre> -->
 - 🎓 <b>CS Grad student</b> at <b>University of Illinois Urbana-Champaign</b> (GPA: 3.95, Graduating in <b>May 25</b>)  
 - 💼 <b>Back-end Developer</b> at UIUC [Secure and Transparent Systems Lab](https://sts.cs.illinois.edu/), previously <b>SDE at [ION Trading](https://iongroup.com/)</b>
-- 👨‍💻 <b>Contributing to over 7 open-source projects</b> in my fav language, <b>Java</b>
+- 👨‍💻 <b>Contributing to over 7 open-source projects</b> in my fav language, 🌠 ![java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 🌠
 - 🌱 Passionate about <b>Software Engineering, Distributed Systems, and Cloud Computing</b>  
 - 🏆 Winner of <b>TikTok-Techjam-2024</b> for building [Gen-AI based Personalized Endorsements](https://devpost.com/software/adopting-genai-for-personalized-endorsements) on TikTok
 - ⚙️ If you like discussing <b>system design</b>, you're already my friend!
